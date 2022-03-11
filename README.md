@@ -47,7 +47,7 @@ $ npm start
 ```
 
 <hr>
-<!-- <a href="https://filmaria-erick.netlify.app/" target="_blank">Veja o projeto em produção</a></br> -->
+<a href="https://buscador-cep-erick.netlify.app" target="_blank">Veja o projeto em produção</a></br>
 </br>
 Made with 💜 by ERICK 👋
 
